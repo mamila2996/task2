@@ -1,0 +1,32 @@
+body{
+    /* background-image: url(img/2.png);
+    background-repeat: no-repeat; */
+}
+input[type=search]{
+    width: 50%;
+}
+.bggallery{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    position: relative;
+}
+.containerforcard{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    position: absolute;
+    top: 250px;
+    left: 125px;
+    gap: 25px;
+
+}
+/* .cardsiplay{
+    position: absolute;
+    top: 250px;
+    left: 100px;
+} */
